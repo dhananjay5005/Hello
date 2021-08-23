@@ -13,6 +13,6 @@ int main()
 
     // Prints sum 
     cout << firstNumber << " * " <<  secondNumber << " = " << multOfTwoNumbers;     
-
+ // Prints sum 
     return 0;
 }
